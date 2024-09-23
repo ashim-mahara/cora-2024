@@ -1,0 +1,5 @@
+openstack_username = "am7539"
+# openstack_application_credential_secret = "jp1WFcVQefVRixcgX1VWgh4Vc4uSri40oUzvebEZESSILKXNHL9i3DaCZPGRu3CEkkj_2w-wzESuJ4owYk51YQ"
+# openstack_application_credential_name   = "Ashim Mahara"
+openstack_application_credential_secret = "3Z4IGgBXvz_KVX5h6XdJzm41F29fGW2aYWJbGE0a6xH-HZYNn-KJjTPL13R_SdDddoXspiQBn4O4_yA5oXVH4w"
+openstack_application_credential_name   = "CORA"
