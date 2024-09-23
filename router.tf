@@ -1,6 +1,7 @@
 resource "openstack_networking_router_v2" "router" {
   name           = "router"
   admin_state_up = "true"
+  external_network_id = "418d945b-4e96-4be5-b81e-9cb857f2f64b"
 }
 
 resource "openstack_networking_network_v2" "business_network"{

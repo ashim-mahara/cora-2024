@@ -15,7 +15,7 @@ resource "openstack_blockstorage_volume_v3" "ubuntu_volume" {
   count       = 17
   name        = "ubuntu_volume_${count.index + 1}"
   description = "Volume attached to Ubuntu instance ${count.index + 1}"
-  size        = 20
+  size        = 10
   image_id    = data.openstack_images_image_v2.boot_image.id
 }
 
