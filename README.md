@@ -1,0 +1,1 @@
+This Terraform repository is designed to provision and manage the infrastructure for the CORA King of the Hill (KotH) cybersecurity competition, hosted by the Rochester Institute of Technology (RIT) and its security club, RITSEC. It automates the deployment of cloud-based resources necessary for the competition, ensuring a consistent and reproducible environment for participants.
